@@ -1,0 +1,62 @@
+<svg
+    xmlns="http://www.w3.org/2000/svg"
+    viewBox="0 0 900 250"
+    width="900"
+    height="250">
+
+    <!-- Red Brush X -->
+    <path
+        d="M610 25 L780 205"
+        stroke="#E10600"
+        stroke-width="40"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+    <path
+        d="M780 25 L610 205"
+        stroke="#E10600"
+        stroke-width="40"
+        stroke-linecap="round"
+        stroke-linejoin="round"/>
+
+    <!-- Slight brush texture -->
+    <path
+        d="M625 40 L760 190"
+        stroke="#ff3b30"
+        stroke-width="8"
+        stroke-linecap="round"
+        opacity=".5"/>
+
+    <path
+        d="M760 40 L625 190"
+        stroke="#ff3b30"
+        stroke-width="8"
+        stroke-linecap="round"
+        opacity=".5"/>
+
+    <!-- Text -->
+    <text
+        x="40"
+        y="165"
+        font-family="Poppins, Montserrat, Arial, sans-serif"
+        font-size="120"
+        font-weight="600"
+        fill="#111"
+        letter-spacing="4">
+
+        THREAD
+    </text>
+
+    <!-- Black X on top -->
+    <text
+        x="610"
+        y="165"
+        font-family="Poppins, Montserrat, Arial, sans-serif"
+        font-size="120"
+        font-weight="700"
+        fill="#111">
+
+        X
+    </text>
+
+</svg>
